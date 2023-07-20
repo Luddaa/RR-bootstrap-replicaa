@@ -27,4 +27,4 @@ export default function Background() {
 
         </div>
     )
-}s
+}

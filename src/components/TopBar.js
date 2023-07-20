@@ -1,7 +1,7 @@
 import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
 import Button from 'react-bootstrap/Button'
-s
+
 export default function TopBar() {
     return (
         <div>
@@ -18,4 +18,4 @@ export default function TopBar() {
                 </Navbar.Collapse>
             </Navbar>
         </div>
-    )
+    )}
